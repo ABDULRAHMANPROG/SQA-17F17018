@@ -1,4 +1,6 @@
 this for asssignmnet work
 here we will create new branch
 
-print(hello world)
+class 3{
+a =3+9;
+System.out.println(a);
