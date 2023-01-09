@@ -7,4 +7,9 @@ a=56
 for in x < i ++i = 55
  if x > i;
 else 
-i = fulse
+i = fulse;
+
+VOID CALC (){
+
+system.out.println("the number is "+i);
+
